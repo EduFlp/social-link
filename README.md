@@ -2,7 +2,8 @@
 User should be able to use hover and focus status for all interactive elements on the page.
 
 <---------------------------------LINKS------------------------------------>
-
+Repository:https://github.com/EduFlp/social-link
+Live: https://eduflp.github.io/social-link/
 
 <---------------------------------BUILT WITH------------------------------->
 - Semantic HTML 5 markup
